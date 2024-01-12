@@ -1,5 +1,5 @@
 # tron-address-converter
-Package for converting TRON address > EVM address | EVM address > TRON address
+Package for converting TRON address <-> EVM address
 Based on https://tronscan.org/#/tools/code-converter/tron-ethereum-address
 and https://github.com/wemaketech/tron-format-address/blob/master/lib/crypto.ts
 
